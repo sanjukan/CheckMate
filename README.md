@@ -20,20 +20,6 @@ All projects should be maintained on a GitHub repository. To track work, all tea
 
 Deliverables
 You will submit your project in multiple milestones throughout the semester. More details about the specific deliverables for your project are available below:
-
-Milestone (Project Grade %)	Deliverables	Deadline
-PM0 (5%)	Group Preferences	Sept 11
-Project Questions	
-PM1 (30%)	Lightning Talk	Sept 22
-Project Proposal	
-PM2 (15%)	Process I	Oct 13
-Requirements Workshop	
-Requirements Analysis	
-Requirements Specification	
-PM3 (15%)	Process II	Nov 10
-High-Level Design	
-Low-Level Design	
-UI Design	
 PM4 (35%)	Black Box Test Plan	Dec 11
 Final Presentation	Dec 4 before class (slides)
 Final Report	
