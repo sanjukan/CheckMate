@@ -1,4 +1,5 @@
 # CheckMate
+*** Sanju Kanumur 
 Software Design Group Project 
 Project
 Software has a major impact on the entire world and in nearly every area of our lives. Software engineering is a complex activity, involving numerous sources of complexity and coordination to develop and maintain high quality software. To that end, the goal for the CS3704 course project this semester will be to develop a project to improve any aspect (i.e. teamwork, productivity, learning, communication, productivity, etc.) of software engineering teams. For your project, you should consider the software engineering processes and will utilize methods and tools for software development life cycle phases (mostly requirements and design) as discussed in class.
