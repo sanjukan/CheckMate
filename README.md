@@ -1,9 +1,8 @@
 # CheckMate
-###
-Sanju Kanumuri (sanju)
-Hafsa Khan (hfsakhn) 
-Yoon Lee (yoonl18)
-Manas Keithreddy (manask101)
+### Sanju Kanumuri (sanju)
+### Hafsa Khan (hfsakhn) 
+### Yoon Lee (yoonl18)
+## Manas Keithreddy (manask101)
 Nandini Yella (nandiniyella)
 
 Software Design Group Project 
